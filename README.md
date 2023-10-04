@@ -6,7 +6,7 @@ Juntarse de a **DOS**. Uno de los integrantes va a ser el que haga al rollinga, 
 ### Rollinga
 Crear una clase `Rollinga` (en el archivo `rollinga.py`) que:
 - Se inicialice con un nombre pasado por parámetro, 0 de felicidad, 0 de birras, 0 de panchos, no tiene papas y tiene flequillo
-- Tenga un método `tomar_birras` que toma un parámetro (cantidad de birras), y, si el rollinga tiene al menos una birra, consume todas sus birras y aumente en 1 su felicidad por birra consumida.
+- Tenga un método `tomar_birras` que toma un parámetro (cantidad de birras), y, si el rollinga tiene esa cantidad de birras, las consume. Aumenta en 1 su felicidad por birra consumida.
 - Tenga un método `comer_pancho` que no tome parámetros, y, si el rollinga tiene al menos un pancho, lo consuma y aumente en 1 su felicidad. Si además tenía papas, aumenta en 2 su felicidad, pero deja de tener papas.
 - Si el rollinga no tiene flequillo, no puede ni tomar birras ni comer panchos porque la vida dejó de tener sentido
 
