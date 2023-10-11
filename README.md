@@ -1,5 +1,8 @@
 # Jesús de Laferrere
 
+## Introducción
+Para entender el contexto del ejercicio, pueden ver el siguiente video: https://www.youtube.com/watch?v=05Iw0zqeSmM
+
 ## Consigna
 Juntarse de a **DOS**. Uno de los integrantes va a ser el que haga al rollinga, y otro a Jesús de Laferrere.
 
