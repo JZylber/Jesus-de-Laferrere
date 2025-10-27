@@ -1,1 +1,2 @@
-from rollinga import Rollinga
+class Jesus:
+    pass
